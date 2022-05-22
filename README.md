@@ -6,6 +6,6 @@ Project for getting to know Git with support software.
 - Git 2.20
 - PyCharm 2018.3.5
 - Python 3.7
-- Windows 10 Pro
+- Windows
 - ##External Platform
 [GitLab](https://gitlab.com) - repository hosting
